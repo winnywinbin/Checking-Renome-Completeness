@@ -1,0 +1,15 @@
+channels:
+- conda
+- bioconda
+- r
+- python
+- defaults
+dependencies:
+- python=2.7
+- parallel
+- r-vegan
+- r-viridis
+#- r=3.6.3
+#- xlsxwriter=1.2.9
+#- pandas=1.0.5
+#- numpy=1.18.5

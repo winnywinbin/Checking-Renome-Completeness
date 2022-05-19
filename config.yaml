@@ -1,0 +1,16 @@
+files:
+  - GCF_000015825.1_ASM1582v1_genomic.fna
+  - GCF_000017225.1_ASM1722v1_genomic.fna
+  - GCF_000337075.1_ASM33707v1_genomic.fna
+  - GCF_004310395.1_ASM431039v1_genomic.fna
+
+GtRNAdbsets:
+  - archaea_GtRNAdb
+  - bacteria_GtRNAdb
+  - eukaryota_GtRNAdb
+  
+soort:
+  - -A
+  
+soort_naam:
+  - archaea
